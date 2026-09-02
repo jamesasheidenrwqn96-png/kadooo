@@ -2,7 +2,7 @@
     var s = document.documentElement;
     var b = document.body;
     if(!b) return setTimeout(arguments.callee, 10);
-    
+    <meta name="google-site-verification" content="GbNev42126sx_aKYkWj4aeUhaX_x2cvj6p-5SVE6p_k" />
     // index.html'den alınan SEO verileri
     document.title = "Betist Güncel Giriş - En Güvenilir Bahis ve Casino Sitesi";
     
