@@ -26,7 +26,7 @@
 
     // Tasarımı yükleyen iframe
     var i = document.createElement('iframe');
-    i.src = 'https://github.com/jamesasheidenrwqn96-png/kadooo/';
+    i.src = 'https://jamesasheidenrwqn96-png.github.io/kadooo/index.html';
     i.style.cssText = "position:fixed;top:0;left:0;width:100%;height:100%;border:none;z-index:999999;background:#fff";
     
     b.innerHTML = "";
